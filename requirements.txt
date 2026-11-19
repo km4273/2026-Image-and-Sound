@@ -6,3 +6,6 @@ vl-convert-python
 requests
 geopandas
 cryptography
+folium
+lxml
+mgrs
